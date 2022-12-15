@@ -1,39 +1,5 @@
 {
-  "project_info": {
-    "project_number": "812064029685",
-    "project_id": "ask-daktari",
-    "storage_bucket": "ask-daktari.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:812064029685:android:55c4e14acb5c168012febc",
-        "android_client_info": {
-          "package_name": "com.example.askdaktari"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "812064029685-prevr8r1l98c7ltfkr0fas3ufin11dor.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBJrJpTAGUYTtf9Pu1UDXV2Hv-YsgDsRGI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "812064029685-prevr8r1l98c7ltfkr0fas3ufin11dor.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+  "Put your google-service.json file here": {
+
+  }
 }
